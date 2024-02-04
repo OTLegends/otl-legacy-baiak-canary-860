@@ -374,7 +374,6 @@ client_assertions.txt
 .env
 # Extensions
 *.ini
-*.otb
 *.exe
 *.manifest
 *.otbm
